@@ -1,5 +1,5 @@
 export const App = () => {
   return (
-    <h1>Hello, Mr. Dishant</h1>
+    <h1>Hello, Mr. Dishantt</h1>
   )
 }
